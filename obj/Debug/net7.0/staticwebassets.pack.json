@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/elman/Projects/BackFinal/obj/Debug/net7.0/scopedcss/projectbundle/BackFinal.bundle.scp.css",
+      "PackagePath": "staticwebassets/BackFinal.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/et-line-icon.css",
+      "PackagePath": "staticwebassets/css/et-line-icon.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/ionicons.min.css",
+      "PackagePath": "staticwebassets/css/ionicons.min.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/meanmenu.css",
+      "PackagePath": "staticwebassets/css/meanmenu.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/owl.video.play.png",
+      "PackagePath": "staticwebassets/css/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/reset.css",
+      "PackagePath": "staticwebassets/css/reset.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/et-line.eot",
+      "PackagePath": "staticwebassets/fonts/et-line.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/et-line.svg",
+      "PackagePath": "staticwebassets/fonts/et-line.svg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/et-line.ttf",
+      "PackagePath": "staticwebassets/fonts/et-line.ttf"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/et-line.woff",
+      "PackagePath": "staticwebassets/fonts/et-line.woff"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/et-lined41d.eot",
+      "PackagePath": "staticwebassets/fonts/et-lined41d.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/ionicons28b5.eot",
+      "PackagePath": "staticwebassets/fonts/ionicons28b5.eot"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/ionicons28b5.svg",
+      "PackagePath": "staticwebassets/fonts/ionicons28b5.svg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/ionicons28b5.ttf",
+      "PackagePath": "staticwebassets/fonts/ionicons28b5.ttf"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/fonts/ionicons28b5.woff",
+      "PackagePath": "staticwebassets/fonts/ionicons28b5.woff"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/.DS_Store",
+      "PackagePath": "staticwebassets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/about/about.png",
+      "PackagePath": "staticwebassets/img/about/about.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/banner/banner.jpg",
+      "PackagePath": "staticwebassets/img/banner/banner.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog-detail.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog-img.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-img.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog4.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog4.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog5.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog5.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog6.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog6.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog7.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog7.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog8.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog8.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/blog/blog9.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog9.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/choose/choose-bd.jpg",
+      "PackagePath": "staticwebassets/img/choose/choose-bd.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/choose/choose.png",
+      "PackagePath": "staticwebassets/img/choose/choose.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/contact/contact1.png",
+      "PackagePath": "staticwebassets/img/contact/contact1.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/contact/contact2.png",
+      "PackagePath": "staticwebassets/img/contact/contact2.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/contact/contact3.png",
+      "PackagePath": "staticwebassets/img/contact/contact3.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course-bg.jpg",
+      "PackagePath": "staticwebassets/img/course/course-bg.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course1.jpg",
+      "PackagePath": "staticwebassets/img/course/course1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course2.jpg",
+      "PackagePath": "staticwebassets/img/course/course2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course3.jpg",
+      "PackagePath": "staticwebassets/img/course/course3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course4.jpg",
+      "PackagePath": "staticwebassets/img/course/course4.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course5.jpg",
+      "PackagePath": "staticwebassets/img/course/course5.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course6.jpg",
+      "PackagePath": "staticwebassets/img/course/course6.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course7.jpg",
+      "PackagePath": "staticwebassets/img/course/course7.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course8.jpg",
+      "PackagePath": "staticwebassets/img/course/course8.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/course9.jpg",
+      "PackagePath": "staticwebassets/img/course/course9.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/course/courses-details.jpg",
+      "PackagePath": "staticwebassets/img/course/courses-details.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event-details.jpg",
+      "PackagePath": "staticwebassets/img/event/event-details.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event1.jpg",
+      "PackagePath": "staticwebassets/img/event/event1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event10.jpg",
+      "PackagePath": "staticwebassets/img/event/event10.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event11.jpg",
+      "PackagePath": "staticwebassets/img/event/event11.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event12.jpg",
+      "PackagePath": "staticwebassets/img/event/event12.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event13.jpg",
+      "PackagePath": "staticwebassets/img/event/event13.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event2.jpg",
+      "PackagePath": "staticwebassets/img/event/event2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event3.jpg",
+      "PackagePath": "staticwebassets/img/event/event3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event5.jpg",
+      "PackagePath": "staticwebassets/img/event/event5.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event6.jpg",
+      "PackagePath": "staticwebassets/img/event/event6.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event7.jpg",
+      "PackagePath": "staticwebassets/img/event/event7.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event8.jpg",
+      "PackagePath": "staticwebassets/img/event/event8.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/event9.jpg",
+      "PackagePath": "staticwebassets/img/event/event9.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/speaker1.jpg",
+      "PackagePath": "staticwebassets/img/event/speaker1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/event/speaker2.jpg",
+      "PackagePath": "staticwebassets/img/event/speaker2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/footer/footer1.jpg",
+      "PackagePath": "staticwebassets/img/footer/footer1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/footer/footer2.jpg",
+      "PackagePath": "staticwebassets/img/footer/footer2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/footer/footer3.jpg",
+      "PackagePath": "staticwebassets/img/footer/footer3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/footer/footer4.jpg",
+      "PackagePath": "staticwebassets/img/footer/footer4.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/icon/section.png",
+      "PackagePath": "staticwebassets/img/icon/section.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/icon/section1.png",
+      "PackagePath": "staticwebassets/img/icon/section1.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/logo/footer-logo.png",
+      "PackagePath": "staticwebassets/img/logo/footer-logo.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/logo/logo.png",
+      "PackagePath": "staticwebassets/img/logo/logo.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/logo/logo2.png",
+      "PackagePath": "staticwebassets/img/logo/logo2.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/notice/video.jpg",
+      "PackagePath": "staticwebassets/img/notice/video.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/post/post1.jpg",
+      "PackagePath": "staticwebassets/img/post/post1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/post/post2.jpg",
+      "PackagePath": "staticwebassets/img/post/post2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/post/post3.jpg",
+      "PackagePath": "staticwebassets/img/post/post3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/slider/home.png",
+      "PackagePath": "staticwebassets/img/slider/home.png"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/slider/slider1.jpg",
+      "PackagePath": "staticwebassets/img/slider/slider1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/slider/slider2.jpg",
+      "PackagePath": "staticwebassets/img/slider/slider2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/slider/slider3.jpg",
+      "PackagePath": "staticwebassets/img/slider/slider3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher-details.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher-details.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher1.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher1.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher10.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher10.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher11.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher11.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher12.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher12.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher2.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher2.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher3.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher3.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher4.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher4.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher5.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher5.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher6.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher6.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher7.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher7.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher8.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher8.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/teacher/teacher9.jpg",
+      "PackagePath": "staticwebassets/img/teacher/teacher9.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/testimonial/testimonial-bg.jpg",
+      "PackagePath": "staticwebassets/img/testimonial/testimonial-bg.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/img/testimonial/testimonial.jpg",
+      "PackagePath": "staticwebassets/img/testimonial/testimonial.jpg"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/ajax-mail.js",
+      "PackagePath": "staticwebassets/js/ajax-mail.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets/js/jquery.magnific-popup.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets/js/jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/jquery.meanmenu.js",
+      "PackagePath": "staticwebassets/js/jquery.meanmenu.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets/js/jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/plugins.js",
+      "PackagePath": "staticwebassets/js/plugins.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/vendor/jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "/Users/elman/Projects/BackFinal/wwwroot/js/vendor/modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets/js/vendor/modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BackFinal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BackFinal.props",
+      "PackagePath": "build\\BackFinal.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BackFinal.props",
+      "PackagePath": "buildMultiTargeting\\BackFinal.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BackFinal.props",
+      "PackagePath": "buildTransitive\\BackFinal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

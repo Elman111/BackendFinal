@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{45C3C8E6-630D-4868-907E-11F4892059E6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BackFinal PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/AppDbContext.cs">
+    <Files>
+      <File FileName="DAL/AppDbContext.cs" Line="35" Column="1" />
+      <File FileName="Views/About/Index.cshtml" Line="48" Column="1" />
+      <File FileName="Controllers/AboutController.cs" Line="22" Column="63" />
+      <File FileName="ViewModels/AboutVM.cs" Line="12" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackFinal" expanded="True">
+            <Node name="BackFinal" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
