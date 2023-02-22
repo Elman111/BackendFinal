@@ -1,0 +1,48 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Category Table</h4>
+                    <p class="card-description">
+                        <a asp-action="create" class="btn btn-outline-success">Create Table</a>
+                    </p>
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Settings</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+
+                                    <tr>
+                                        <td>@item.Name</td>
+                                    
+                                        <td>
+                                            <a asp-action="delete" asp-route-id="@item.Id"> <btn style="background-color:red;cursor:pointer;;padding:10px"> Delete </btn></a>
+                                            <a asp-action="update" asp-route-id="@item.Id"> <btn style="background-color:chartreuse;cursor:pointer;padding:10px"> Update </btn></a>
+                                        </td>
+
+                                    </tr>
+
+
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

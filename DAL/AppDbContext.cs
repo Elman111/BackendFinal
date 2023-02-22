@@ -1,12 +1,15 @@
 ﻿using System;
 using BackFinal.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackFinal.DAL
 {
     
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
+        internal readonly object Category;
+
         public AppDbContext(DbContextOptions options) : base(options)
         {
         }
@@ -31,6 +34,20 @@ namespace BackFinal.DAL
         public DbSet<TeacherArea> TeacherAreas { get; set; }
 
         public DbSet<AboutTestimonial> AboutTestimonials { get; set; }
+
+        public DbSet<AppUser> AppUsers { get; set; }
+
+        public DbSet<TeacherAreaSocial> TeacherAreaSocials { get; set; }
+
+        public DbSet<Course> Courses { get; set; }
+
+        public DbSet<Category> Categories { get; internal set; }
+
+        public DbSet<Latest_From_Blog> Latest_From_Blogs { get; internal set; }
+
+        public DbSet<Teachers> Teachers { get; internal set; }
+        public object Sliders { get; internal set; }
+        public object Latest_From_Blog { get; internal set; }
     }
 
 }

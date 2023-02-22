@@ -1,0 +1,151 @@
+﻿@model UpdateTeacherVM
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <p class="card-description">
+                    <a asp-action="index"> <btn style="background-color:midnightblue;cursor:pointer;padding:10px"> Back </btn> </a>
+                </p>
+
+                <img width="100" height="100" src="~/img/teacher/@Model.ImageUrl" />
+
+                <p>@Model.Desc</p>
+
+                <p>@Model.Name</p>
+
+                <p>@Model.Facebook</p>
+
+                <p>@Model.Instagram</p>
+
+                <p>@Model.LinkedIn</p>
+
+                <p>@Model.Whatsapp</p>
+
+                <p>@Model.Degree</p>
+
+                <p>@Model.Email</p>
+
+                <p>@Model.Experience</p>
+
+                <p>@Model.Faculty</p>
+
+                <p>@Model.Hobby</p>
+
+                <p>@Model.Number</p>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <p class="card-description">
+                    Create Teacher Form
+                </p>
+                <form method="post" class="forms-sample" enctype="multipart/form-data">
+
+                    <div class="form-group">
+                        <label asp-for="Photo">Name</label>
+                        <input accept="image/*" asp-for="Photo" class="form-control" placeholder="Name">
+                        <span asp-validation-for="Photo" style="color:red"> </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="Desc">Name</label>
+                        <input asp-for="Desc" class="form-control" placeholder="Desc">
+                        <span asp-validation-for="Desc" style="color:red"> </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <input asp-for="Name" class="form-control" placeholder="Name">
+                        <span asp-validation-for="Name" style="color:red"> </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Facebook">Facebook</label>
+                        <input asp-for="Facebook" class="form-control" placeholder="Facebook">
+                        <span asp-validation-for="Facebook" style="color:red"> </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Instagram">Instagram</label>
+                        <input asp-for="Instagram" class="form-control" placeholder="Instagram">
+                        <span asp-validation-for="Instagram" style="color:red"> </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="LinkedIn">LinkedIn</label>
+                        <input asp-for="LinkedIn" class="form-control" placeholder="LinkedIn">
+                        <span asp-validation-for="LinkedIn" style="color:red"> </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Whatsapp">Whatsapp</label>
+                        <input asp-for="Whatsapp" class="form-control" placeholder="Whatsapp">
+                        <span asp-validation-for="Whatsapp" style="color:red"> </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Degree">Degree</label>
+                        <input asp-for="Degree" class="form-control" placeholder="Degree">
+                        <span asp-validation-for="Degree" style="color:red"> </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" class="form-control" placeholder="Email">
+                        <span asp-validation-for="Email" style="color:red"> </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Experience">Experience</label>
+                        <input asp-for="Experience" class="form-control" placeholder="Experience">
+                        <span asp-validation-for="Experience" style="color:red"> </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="Faculty">Faculty</label>
+                        <input asp-for="Faculty" class="form-control" placeholder="Faculty">
+                        <span asp-validation-for="Faculty" style="color:red"> </span>
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <label asp-for="Hobby">Hobby</label>
+                        <input asp-for="Hobby" class="form-control" placeholder="Hobby">
+                        <span asp-validation-for="Hobby" style="color:red"> </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="Number">Number</label>
+                        <input asp-for="Number" class="form-control" placeholder="Number">
+                        <span asp-validation-for="Number" style="color:red"> </span>
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

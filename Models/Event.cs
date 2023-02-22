@@ -1,19 +1,21 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+
 namespace BackFinal.Models
 {
     public class Event
     {
         public int Id { get; set; }
 
-        public string Date { get; set; }
+        public string ImageUrl { get; set; }
+        public string Title { get; set; }
 
-        public string Month { get; set; }
+        public string Desc  { get; set; }
 
-        public string Head { get; set; }
 
-        public string Watch { get; set; }
-
-        public string Place { get; set; }
+        [NotMapped]
+        [Required]
+        public IFormFile Photo { get; set; }
     }
 }
-

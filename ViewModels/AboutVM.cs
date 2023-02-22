@@ -11,6 +11,8 @@ namespace BackFinal.ViewModels
 
             public List<AboutTestimonial> AboutTestimonials { get; set; }
 
+            public TeacherAreaSocial TeacherAreaSocials { get; set; }
+
     }
 }
 

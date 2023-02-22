@@ -1,27 +1,111 @@
 ﻿<Properties StartupConfiguration="{45C3C8E6-630D-4868-907E-11F4892059E6}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.BackFinal PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/AppDbContext.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/AdminArea/Views/Slider/Update.cshtml">
     <Files>
-      <File FileName="DAL/AppDbContext.cs" Line="35" Column="1" />
-      <File FileName="Views/About/Index.cshtml" Line="48" Column="1" />
-      <File FileName="Controllers/AboutController.cs" Line="22" Column="63" />
-      <File FileName="ViewModels/AboutVM.cs" Line="12" Column="60" />
+      <File FileName="Controllers/AccountController.cs" Line="3" Column="28" />
+      <File FileName="Views/Account/ForgetPassword.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/Login.cshtml" Line="5" Column="1" />
+      <File FileName="Views/Account/Register.cshtml" Line="2" Column="2" />
+      <File FileName="Views/Account/ResetPassword.cshtml" Line="1" Column="22" />
+      <File FileName="ViewModels/ForgetPasswordVM.cs" Line="1" Column="24" />
+      <File FileName="ViewModels/HomeVM.cs" Line="2" Column="24" />
+      <File FileName="ViewModels/LoginVM.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/RegisterVM.cs" Line="3" Column="20" />
+      <File FileName="Helpers/RolesEnum.cs" Line="1" Column="20" />
+      <File FileName="Models/AppUser.cs" Line="4" Column="20" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="52" Column="15" />
+      <File FileName="Views/Home/Index.cshtml" Line="68" Column="78" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230208092221_UpdateAboutArea.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230208104039_AddTeacherArea.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230208082926_AddAboutArea.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230207110255_AddNoticeBoard.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230207133910_AddNoticeBoardRight.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230207104753_AddIndexSlider.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230208063957_AddTestimonial.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230210052457_AddAppUser.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230210141555_AddTeacherAreaSocial.cs" Line="1" Column="1" />
+      <File FileName="Migrations/AppDbContextModelSnapshot.cs" Line="36" Column="45" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Models/AboutArea.cs" Line="1" Column="1" />
+      <File FileName="Models/AboutTestimonial.cs" Line="1" Column="1" />
+      <File FileName="Models/Blog.cs" Line="20" Column="2" />
+      <File FileName="Models/Category.cs" Line="6" Column="20" />
+      <File FileName="Models/Contact.cs" Line="3" Column="20" />
+      <File FileName="Models/ErrorViewModel.cs" Line="3" Column="20" />
+      <File FileName="Models/Course.cs" Line="6" Column="20" />
+      <File FileName="Models/Event.cs" Line="22" Column="1" />
+      <File FileName="Models/Feature.cs" Line="3" Column="20" />
+      <File FileName="Models/IndexSlider.cs" Line="1" Column="1" />
+      <File FileName="Models/Latest From Blog.cs" Line="4" Column="20" />
+      <File FileName="Models/NoticeBoard.cs" Line="1" Column="1" />
+      <File FileName="Models/NoticeBoardRight.cs" Line="1" Column="1" />
+      <File FileName="Models/Question.cs" Line="1" Column="1" />
+      <File FileName="Models/TeacherArea.cs" Line="1" Column="1" />
+      <File FileName="Models/Teachers.cs" Line="8" Column="20" />
+      <File FileName="Models/TeacherAreaSocial.cs" Line="1" Column="1" />
+      <File FileName="Models/Testimonial.cs" Line="1" Column="1" />
+      <File FileName="Models/Upcomming Events.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/AboutVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/CourseVM.cs" Line="1" Column="16" />
+      <File FileName="ViewModels/PaginationVM.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/UpdateBlogVM.cs" Line="4" Column="20" />
+      <File FileName="ViewModels/UpdateCategoryVM.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/UpdateCourseVM.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/UpdateEventVM.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/UpdateSliderVM.cs" Line="3" Column="20" />
+      <File FileName="ViewModels/UpdateTeacherVM.cs" Line="3" Column="20" />
+      <File FileName="Areas/AdminArea/Controllers/BlogController.cs" Line="10" Column="31" />
+      <File FileName="Areas/AdminArea/Controllers/CategoryController.cs" Line="18" Column="1" />
+      <File FileName="Areas/AdminArea/Controllers/CourseController.cs" Line="14" Column="20" />
+      <File FileName="Helpers/Extension/Extension.cs" Line="13" Column="20" />
+      <File FileName="Areas/AdminArea/Controllers/DashboardController.cs" Line="3" Column="20" />
+      <File FileName="Areas/AdminArea/Controllers/EventController.cs" Line="11" Column="20" />
+      <File FileName="Areas/AdminArea/Controllers/SliderController.cs" Line="11" Column="20" />
+      <File FileName="Areas/AdminArea/Controllers/TeacherController.cs" Line="11" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Blog/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Blog/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Blog/Update.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Category/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/_ViewImports.cshtml" Line="2" Column="17" />
+      <File FileName="Areas/AdminArea/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Teacher/Create.cshtml" Line="1" Column="1" />
+      <File FileName="DAL/AppDbContext.cs" Line="2" Column="24" />
+      <File FileName="Controllers/AboutController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/BlogController.cs" Line="10" Column="20" />
+      <File FileName="Controllers/CourseController.cs" Line="6" Column="37" />
+      <File FileName="ViewComponents/BlogViewComponent.cs" Line="8" Column="20" />
+      <File FileName="ViewComponents/CourseViewComponent.cs" Line="8" Column="20" />
+      <File FileName="ViewComponents/Navbar.cs" Line="1" Column="20" />
+      <File FileName="ViewComponents/NavbarViewComponent.cs" Line="10" Column="20" />
+      <File FileName="ViewComponents/NoticeBoardViewComponent.cs" Line="1" Column="1" />
+      <File FileName="ViewComponents/TeacherViewComponent.cs" Line="9" Column="20" />
+      <File FileName="Views/About/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Course/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/Untitled-2.html" Line="1" Column="1" />
+      <File FileName="Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Controllers/Slider.cs" Line="2" Column="48" />
+      <File FileName="Areas/AdminArea/Views/Category/Update.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Category/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Slider/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Slider/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminArea/Views/Slider/Update.cshtml" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BackFinal" expanded="True">
             <Node name="BackFinal" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="DAL" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="About" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="AdminArea" expanded="True">
+                  <Node name="Views" expanded="True">
+                    <Node name="Slider" expanded="True">
+                      <Node name="Update.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -32,6 +116,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BackFinal PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

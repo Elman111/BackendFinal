@@ -23,7 +23,6 @@ public class HomeController : Controller
         homeVM.NoticeBoardRights = _context.NoticeBoardRights.ToList();
         homeVM.Questions = _context.Questions.ToList();
         homeVM.Offers = _context.Offers.ToList();
-        homeVM.Events = _context.Events.ToList();
         homeVM.Testimonials = _context.Testimonials.ToList();
         homeVM.Blogs = _context.Blogs.ToList();
         return View(homeVM);

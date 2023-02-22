@@ -1,0 +1,66 @@
+﻿@model UpdateSliderVM
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <p class="card-description">
+                    <a asp-action="index"> <btn style="background-color:midnightblue;cursor:pointer;padding:10px"> Back </btn> </a>
+                </p>
+
+                   
+                       
+                            <img width="100" height="100" src="~/img/slider/@Model.ImageUrl" />
+                       
+                <p>@Model.Desc</p>
+
+                <p>@Model.Title</p>
+                  
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <p class="card-description">
+                    Create Slider Form
+                </p>
+                <form method="post" class="forms-sample" enctype="multipart/form-data">
+
+                    <div class="form-group">
+                        <label asp-for="Photo">Name</label>
+                        <input accept="image/*" asp-for="Photo" class="form-control" placeholder="Name">
+                        <span asp-validation-for="Photo" style="color:red"> </span>
+                    </div>
+
+
+                        <div class="form-group">
+                        <label asp-for="Desc">Name</label>
+                        <input asp-for="Desc" class="form-control" placeholder="Desc">
+                        <span asp-validation-for="Desc" style="color:red"> </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="Title">Name</label>
+                        <input asp-for="Title" class="form-control" placeholder="Title">
+                        <span asp-validation-for="Title" style="color:red"> </span>
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

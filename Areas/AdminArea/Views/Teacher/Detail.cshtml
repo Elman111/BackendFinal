@@ -1,0 +1,87 @@
+﻿@model Teachers
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Teacher Info</h4>
+                <p class="card-description">
+                    <a class="btn btn-outline-dark" asp-action="index">Back</a>
+                </p>
+
+
+                <p>
+                    @Model.ImageUrl
+                </p>
+
+                <p>
+                    <span style="color:indigo">Name:</span>  @Model.Name
+                </p>
+
+                <p>
+                    <span style="color:indigo">Desc:</span>  @Model.Desc
+                </p>
+
+
+                <p style="color:red">
+                Social Page
+                </p>
+
+                <p>
+
+                    @Model.Facebook
+                </p>
+
+                  <p>
+                    @Model.Instagram
+                </p>
+
+                <p>
+                    @Model.LinkedIn
+                </p>
+
+                <p>
+                    @Model.Whatsapp
+                </p>
+
+              <p style="color:red">
+                About
+                </p>
+
+                  <p>
+                  <span style="color:indigo">Degree:</span>@Model.Degree
+                </p>
+
+                <p>
+                    <span style="color:indigo">Email:</span>  @Model.Email
+                </p>
+
+                  <p>
+                    <span style="color:indigo">Experience:</span>  @Model.Experience
+                </p>
+
+                <p>
+                    <span style="color:indigo">Faculty:</span> @Model.Faculty
+                </p>
+
+                  <p>
+                    <span style="color:indigo">Hobby:</span>  @Model.Hobby
+                </p>
+
+                <p>
+                    <span style="color:indigo">Number:</span>     @Model.Number
+                </p>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+

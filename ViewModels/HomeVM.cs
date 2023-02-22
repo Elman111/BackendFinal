@@ -1,6 +1,5 @@
 ﻿using System;
 using BackFinal.Models;
-
 using Microsoft.EntityFrameworkCore;
 
 namespace BackFinal.ViewModels
